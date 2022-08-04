@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Windows10/Desktop/jar_files/classmate-1.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Windows10/Desktop/jar_files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Windows10/Desktop/jar_files/converter-moshi-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Windows10/Desktop/jar_files/hibernate-validator-5.3.6.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Windows10/Desktop/jar_files/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Windows10/Desktop/jar_files/logging-interceptor-3.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/Windows10/Desktop/jar_files/moshi-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Windows10/Desktop/jar_files/okhttp-3.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/Windows10/Desktop/jar_files/okio-1.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/Windows10/Desktop/jar_files/retrofit-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Windows10/Desktop/jar_files/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Windows10/Desktop/jar_files/spring-aop-4.3.14.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Windows10/Desktop/jar_files/spring-beans-4.3.14.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Windows10/Desktop/jar_files/spring-boot-1.5.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Windows10/Desktop/jar_files/spring-context-4.3.14.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Windows10/Desktop/jar_files/spring-core-4.3.14.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Windows10/Desktop/jar_files/spring-data-influxdb-1.7.jar"/>
+	<classpathentry kind="lib" path="D:/Windows10/Desktop/jar_files/spring-expression-4.3.14.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Windows10/Desktop/jar_files/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Windows10/Downloads/influxdb-java-2.17.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
